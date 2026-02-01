@@ -1,5 +1,12 @@
 # Ubuntu & Git
 
+## INSTALL UBUNTU DUAL BOOT ALONGSIDE WINDOWS
+1. for complete tutorial view this tutorial on youtube
+[VIEW TOTORIAL](https://youtu.be/vaEYeQkTgzQ?si=LReSMUBBTf4cnAzJ)
+
+3. we recommend you to install Ubuntu 22.0
+4. if any issue occours about installation u can come to sekre bayucaraka for help 	
+
 ## Ubuntu Basic Command
 Berikut adalah beberapa perintah atau command yang umum digunakan pada sistem operasi Linux.
 
