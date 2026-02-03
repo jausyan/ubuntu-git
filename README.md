@@ -251,5 +251,20 @@ Untuk dokumentasi yang lebih lengkap, kamu juga bisa pakai:
 | `git pull`                                 | update the local repository with the latest changes from the remote branch |
 | `git diff <source branch> <target branch>` | preview changes before merging                                             |
 
+
+# Tugas Magang Bayucaraka 2026 - 1
+
+## **Ubuntu dan Git – Membuat Script Bash**
+
+---
+
+## Deskripsi Tugas
+Peserta magang diminta untuk membuat sebuah **script Bash Bebas** di sistem operasi Ubuntu.  
+Script ini harus membantu otomatisasi tugas sehari-hari seorang programmer pemula, kemudian di-*push* ke repository **GitHub Classroom** yang telah disediakan. buat file 'README.md' dan jelaskan singkat tentang script yang dibuat
+
+---
+## Ketentuan Script Bash
+Script dalam format .sh, jelas, dan bermanfaat.
+
 Made by **"bayucaraka programmer team"** © 2026
 ### [Commit Message Guidelines](https://gist.github.com/nyancodeid/63f19941c81252bb0cca9c14497cf9f7#file-commit-message-md)
